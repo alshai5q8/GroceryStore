@@ -28,7 +28,7 @@ numItems ++;
 if ( numItems >= 6 )
 {
 
-cout<< "you'll need a bigger list!\n";
+cout<< "You'll need a bigger list!\n";
 }
 }
 }
